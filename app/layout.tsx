@@ -16,8 +16,11 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+    
       <body className={inter.className}><Navbar></Navbar>{children}</body>
-      
+      <style>
+@import url('https://fonts.googleapis.com/css2?family=Butterfly+Kids&family=Jost:ital,wght@1,900&family=Luckiest+Guy&family=Rubik+Scribble&display=swap')
+</style>
     </html>
   );
 }
