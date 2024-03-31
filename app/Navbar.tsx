@@ -15,7 +15,7 @@ const Navbar = () => {
             <div className='flex justify-center items-center gap-5'>
                 <Link href={"/"}>HOME</Link>
                 <Link href={"/read"}>READ</Link>
-                <Link href={"/about"}>AUDIO</Link>
+                <Link href={"/audio"}>AUDIO</Link>
                 <Link href={"/stories"}>STORIES</Link>
                 <div className=' bg-white w-12 h-12 rounded-full'></div>
             </div>

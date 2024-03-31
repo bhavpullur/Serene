@@ -67,7 +67,6 @@ const page = () => {
           </div>
         </div>
       </div>
-
       {/* Recommendations */}
       <div className="w-full flex justify-center items-center flex-col gap-9 ">
         <div className="jost text-white flex pl-15 text-[25px]">
