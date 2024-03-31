@@ -19,7 +19,7 @@ const page = () => {
               className="rounded-md hover:scale-105 transition-transform"
             />
             <div className="flex justify-center jost text-pretty font-light text-white items-center">
-              ATOMIC HABITS
+              BHAGVAD GITA
             </div>
           </div>
 
@@ -34,7 +34,7 @@ const page = () => {
               className="rounded-md hover:scale-105 transition-transform"
             />
             <div className="flex justify-center jost text-pretty font-light text-white items-center">
-              ATOMIC HABITS
+              DUNE
             </div>
           </div>
           <div>
@@ -48,7 +48,7 @@ const page = () => {
               className="rounded-md hover:scale-105 transition-transform"
             />
             <div className="flex justify-center jost text-pretty font-light text-white items-center">
-              ATOMIC HABITS
+              IT ENDS WITH US
             </div>
           </div>
           <div>
@@ -62,7 +62,7 @@ const page = () => {
               className="rounded-md scale-95 hover:scale-100 transition-transform"
             />
             <div className="flex justify-center jost text-pretty font-light text-white items-center">
-              ATOMIC HABITS
+              IKIGAI
             </div>
           </div>
         </div>
@@ -86,7 +86,7 @@ const page = () => {
               className="rounded-md hover:scale-105 transition-transform"
             />
             <div className="flex justify-center jost text-pretty font-light text-white items-center">
-              ATOMIC HABITS
+             IT STARTS WITH US
             </div>
           </div>
 
@@ -101,7 +101,7 @@ const page = () => {
               className="rounded-md hover:scale-105 scale-100 transition-transform"
             />
             <div className="flex justify-center jost text-pretty font-light text-white items-center">
-              ATOMIC HABITS
+              RICH DAD - POOR DAD
             </div>
           </div>
           <div>
@@ -115,7 +115,7 @@ const page = () => {
               className="rounded-md hover:scale-105 transition-transform"
             />
             <div className="flex justify-center jost text-pretty font-light text-white items-center">
-              ATOMIC HABITS
+              THE JOURNEY HOME
             </div>
           </div>
           <div>
@@ -129,7 +129,7 @@ const page = () => {
               className="rounded-md scale-95 hover:scale-100 transition-transform"
             />
             <div className="flex justify-center jost text-pretty font-light text-white items-center">
-              ATOMIC HABITS
+             THE 5AM CLUB
             </div>
           </div>
         </div>
@@ -148,7 +148,7 @@ const page = () => {
               className="rounded-md hover:scale-105 transition-transform"
             />
             <div className="flex justify-center jost text-pretty font-light text-white items-center">
-              ATOMIC HABITS
+              DO IT TODAY
             </div>
           </div>
 
@@ -163,7 +163,7 @@ const page = () => {
               className="rounded-md hover:scale-105 scale-100 transition-transform"
             />
             <div className="flex justify-center jost text-pretty font-light text-white items-center">
-              ATOMIC HABITS
+              WINGS OF FIRE
             </div>
           </div>
           <div>
@@ -177,7 +177,7 @@ const page = () => {
               className="rounded-md hover:scale-105 transition-transform"
             />
             <div className="flex justify-center jost text-pretty font-light text-white items-center">
-              ATOMIC HABITS
+              THE 4HOUR WORKWEEK
             </div>
           </div>
           <div>
@@ -191,7 +191,7 @@ const page = () => {
               className="rounded-md scale-95 hover:scale-100 transition-transform"
             />
             <div className="flex justify-center jost text-pretty font-light text-white items-center">
-              ATOMIC HABITS
+            THE ALCHEMIST
             </div>
           </div>
         </div>
@@ -212,7 +212,7 @@ const page = () => {
               className="rounded-md hover:scale-105 transition-transform"
             />
             <div className="flex justify-center jost text-pretty font-light text-white items-center">
-              ATOMIC HABITS
+              THE SILENT PATIENT
             </div>
           </div>
 
@@ -227,7 +227,7 @@ const page = () => {
               className="rounded-md hover:scale-105 scale-100 transition-transform"
             />
             <div className="flex justify-center jost text-pretty font-light text-white items-center">
-              ATOMIC HABITS
+             THE GIRL ON TRAIN
             </div>
           </div>
           <div>
@@ -241,7 +241,7 @@ const page = () => {
               className="rounded-md hover:scale-105 transition-transform"
             />
             <div className="flex justify-center jost text-pretty font-light text-white items-center">
-              ATOMIC HABITS
+            GIRL'S GUIDE TO MURDER
             </div>
           </div>
           <div>
@@ -255,7 +255,7 @@ const page = () => {
               className="rounded-md scale-95 hover:scale-100 transition-transform"
             />
             <div className="flex justify-center jost text-pretty font-light text-white items-center">
-              ATOMIC HABITS
+              THE INHERITANCE GAMES
             </div>
           </div>
         </div>
@@ -278,7 +278,7 @@ const page = () => {
               className="rounded-md hover:scale-105 transition-transform"
             />
             <div className="flex justify-center jost text-pretty font-light text-white items-center">
-              ATOMIC HABITS
+              THE LOVE DECPETION
             </div>
           </div>
 
@@ -293,7 +293,7 @@ const page = () => {
               className="rounded-md hover:scale-105 scale-100 transition-transform"
             />
             <div className="flex justify-center jost text-pretty font-light text-white items-center">
-              ATOMIC HABITS
+             YOU'VE REACHED SAM
             </div>
           </div>
           <div>
@@ -307,7 +307,7 @@ const page = () => {
               className="rounded-md hover:scale-105 transition-transform"
             />
             <div className="flex justify-center jost text-pretty font-light text-white items-center">
-              ATOMIC HABITS
+              TWISTED LOVE
             </div>
           </div>
           <div>
@@ -321,7 +321,7 @@ const page = () => {
               className="rounded-md scale-95 hover:scale-100 transition-transform"
             />
             <div className="flex justify-center jost text-pretty font-light text-white items-center">
-              ATOMIC HABITS
+              TWISTED GAMES
             </div>
           </div>
         </div>
@@ -331,7 +331,6 @@ const page = () => {
         <div className="jost text-white flex pl-15 text-[25px]">
           FICTION
         </div>
-
         <div className="flex flex-row   gap-14 pl-5">
           <div>
             <Image
@@ -344,7 +343,7 @@ const page = () => {
               className="rounded-md hover:scale-105 transition-transform"
             />
             <div className="flex justify-center jost text-pretty font-light text-white items-center">
-              ATOMIC HABITS
+             THE BOOK THEIF
             </div>
           </div>
 
@@ -359,7 +358,7 @@ const page = () => {
               className="rounded-md hover:scale-105 scale-100 transition-transform"
             />
             <div className="flex justify-center jost text-pretty font-light text-white items-center">
-              ATOMIC HABITS
+              TO KILL A MOCKINGBIRD
             </div>
           </div>
           <div>
@@ -373,7 +372,7 @@ const page = () => {
               className="rounded-md hover:scale-105 transition-transform"
             />
             <div className="flex justify-center jost text-pretty font-light text-white items-center">
-              ATOMIC HABITS
+              THE KITE RUNNER
             </div>
           </div>
           <div>
@@ -387,7 +386,7 @@ const page = () => {
               className="rounded-md scale-95 hover:scale-100 transition-transform"
             />
             <div className="flex justify-center jost text-pretty font-light text-white items-center">
-              ATOMIC HABITS
+              THE PAST IS RISING
             </div>
           </div>
         </div>

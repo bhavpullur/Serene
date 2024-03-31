@@ -3,6 +3,8 @@ import Image from 'next/image'
 const page = () => {
   return (
     <div className="flex flex-col gap-32">
+
+
       {/* TopPicks */}
       <div className="w-full flex  justify-center items-center flex-col gap-9 ">
         <div className="jost text-white flex pl-15 text-[25px] ">TOP PICKS</div>
@@ -11,7 +13,7 @@ const page = () => {
           <div>
             <Image
               src={
-                "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9798887620237/bhagavad-gita-9798887620237_hr.jpg"
+                "https://cdn.shopify.com/s/files/1/2081/8163/files/001-HIDE-AND-SEEK-free-childrens-books-1.jpg?v=1589846879"
               }
               height={100}
               width={200}
@@ -19,14 +21,14 @@ const page = () => {
               className="rounded-md hover:scale-105 transition-transform"
             />
             <div className="flex justify-center jost text-pretty font-light text-white items-center">
-              ATOMIC HABITS
+              HIDE & SEEK
             </div>
           </div>
 
           <div>
             <Image
               src={
-                "https://cdn.pastemagazine.com/www/articles/2019/12/06/dunebbc19final.jpg"
+                "https://cdn.shopify.com/s/files/1/2081/8163/files/002-GINGER-THE-GIRAFFE.jpg?v=1589846879"
               }
               height={100}
               width={200}
@@ -34,13 +36,13 @@ const page = () => {
               className="rounded-md hover:scale-105 transition-transform"
             />
             <div className="flex justify-center jost text-pretty font-light text-white items-center">
-              ATOMIC HABITS
+              GINGER THE GIRAFFE
             </div>
           </div>
           <div>
             <Image
               src={
-                "https://images-na.ssl-images-amazon.com/images/I/91OT29EvAXL.jpg"
+                "https://cdn.shopify.com/s/files/1/2081/8163/files/005-SUNNY-MEADOWS-WOODLAND-SCHOOL-th.jpg?v=1589846879"
               }
               height={90}
               width={200}
@@ -48,13 +50,13 @@ const page = () => {
               className="rounded-md hover:scale-105 transition-transform"
             />
             <div className="flex justify-center jost text-pretty font-light text-white items-center">
-              ATOMIC HABITS
+              SUNNY MEADOWS...
             </div>
           </div>
           <div>
             <Image
               src={
-                "https://m.media-amazon.com/images/I/614XuifqVUL._AC_UF1000,1000_QL80_.jpg"
+                "https://cdn.shopify.com/s/files/1/2081/8163/files/011-DYLAN-THE-DRAGON-th.jpg?v=1589884735"
               }
               height={90}
               width={200}
@@ -62,12 +64,11 @@ const page = () => {
               className="rounded-md scale-95 hover:scale-100 transition-transform"
             />
             <div className="flex justify-center jost text-pretty font-light text-white items-center">
-              ATOMIC HABITS
+              DYLAN THE DRAGON
             </div>
           </div>
         </div>
       </div>
-
       {/* Recommendations */}
       <div className="w-full flex justify-center items-center flex-col gap-9 ">
         <div className="jost text-white flex pl-15 text-[25px]">
@@ -78,7 +79,7 @@ const page = () => {
           <div>
             <Image
               src={
-                "https://m.media-amazon.com/images/I/81FummIc2eL._AC_UF1000,1000_QL80_.jpg"
+                "https://cdn.shopify.com/s/files/1/2081/8163/files/017-UP-IN-THE-AIR-th.jpg?v=1589849801"
               }
               height={100}
               width={200}
@@ -86,14 +87,14 @@ const page = () => {
               className="rounded-md hover:scale-105 transition-transform"
             />
             <div className="flex justify-center jost text-pretty font-light text-white items-center">
-              ATOMIC HABITS
+              UP IN THE AIR
             </div>
           </div>
 
           <div>
             <Image
               src={
-                "https://flich.lk/wp-content/uploads/2023/05/rich-dad-poor-dad-24.jpg"
+                "https://cdn.shopify.com/s/files/1/2081/8163/files/020-HECTOR-THE-HERMIT-th.jpg?v=1589849801"
               }
               height={100}
               width={200}
@@ -101,13 +102,13 @@ const page = () => {
               className="rounded-md hover:scale-105 scale-100 transition-transform"
             />
             <div className="flex justify-center jost text-pretty font-light text-white items-center">
-              ATOMIC HABITS
+            HECTOR- HERMIT CRAB
             </div>
           </div>
           <div>
             <Image
               src={
-                "https://m.media-amazon.com/images/I/61g40WNFudL._AC_UF1000,1000_QL80_.jpg"
+                "https://cdn.shopify.com/s/files/1/2081/8163/files/019-BUBBLE-FUN-th.jpg?v=1589849801"
               }
               height={90}
               width={200}
@@ -115,47 +116,47 @@ const page = () => {
               className="rounded-md hover:scale-105 transition-transform"
             />
             <div className="flex justify-center jost text-pretty font-light text-white items-center">
-              ATOMIC HABITS
+            BUBBLE FUN
             </div>
           </div>
           <div>
             <Image
               src={
-                "https://www.jaicobooks.com/wp-content/uploads/2022/12/j-2833-the-5-am-club-robin-sharma.jpg"
+                "https://cdn.shopify.com/s/files/1/2081/8163/files/026-THE-HIKE-th.jpg?v=1589890624"
               }
               height={90}
               width={200}
               alt="ikigai"
-              className="rounded-md scale-95 hover:scale-100 transition-transform"
+              className="rounded-md  hover:scale-105 transition-transform"
             />
             <div className="flex justify-center jost text-pretty font-light text-white items-center">
-              ATOMIC HABITS
+              THE HIKE
             </div>
           </div>
         </div>
       </div>
-      {/*Motivation*/}
+      {/*Feel Good*/}
       <div className="w-full flex justify-center items-center flex-col gap-9 ">
-        <div className="jost text-white flex pl-15 text-[25px]">MOTIVATION</div>
+        <div className="jost text-white flex pl-15 text-[25px]">FEEL GOOD</div>
 
         <div className="flex flex-row   gap-14 pl-5">
           <div>
             <Image
-              src={"https://m.media-amazon.com/images/I/41-G7AIOZyL.jpg"}
+              src={"https://cdn.shopify.com/s/files/1/2081/8163/files/022-I-FOUND-A-FROG-th.jpg?v=1589890624"}
               height={100}
               width={200}
               alt="ikigai"
               className="rounded-md hover:scale-105 transition-transform"
             />
             <div className="flex justify-center jost text-pretty font-light text-white items-center">
-              ATOMIC HABITS
+              I FOUND A FROG
             </div>
           </div>
 
           <div>
             <Image
               src={
-                "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1588286863i/634583.jpg"
+                "https://cdn.shopify.com/s/files/1/2081/8163/files/027-PIRATES-COVE-th.jpg?v=1589890624"
               }
               height={100}
               width={200}
@@ -163,13 +164,13 @@ const page = () => {
               className="rounded-md hover:scale-105 scale-100 transition-transform"
             />
             <div className="flex justify-center jost text-pretty font-light text-white items-center">
-              ATOMIC HABITS
+            PIRATES COVE
             </div>
           </div>
           <div>
             <Image
               src={
-                "https://m.media-amazon.com/images/I/81qW97ndkvL._AC_UF1000,1000_QL80_.jpg"
+                "https://cdn.shopify.com/s/files/1/2081/8163/files/028-THE-WAY-OF-THE-WOODS-th.jpg?v=1589890624"
               }
               height={90}
               width={200}
@@ -177,13 +178,13 @@ const page = () => {
               className="rounded-md hover:scale-105 transition-transform"
             />
             <div className="flex justify-center jost text-pretty font-light text-white items-center">
-              ATOMIC HABITS
+            THE WAY OF THE WOODS
             </div>
           </div>
           <div>
             <Image
               src={
-                "https://lifestack.files.wordpress.com/2008/11/the_alchemist2.jpg?w=584"
+                "https://cdn.shopify.com/s/files/1/2081/8163/files/039-MY-FIRST-PET-th.jpg?v=1589893027"
               }
               height={90}
               width={200}
@@ -191,86 +192,20 @@ const page = () => {
               className="rounded-md scale-95 hover:scale-100 transition-transform"
             />
             <div className="flex justify-center jost text-pretty font-light text-white items-center">
-              ATOMIC HABITS
+            MY FIRST PET
             </div>
           </div>
         </div>
       </div>
-      {/*Thriller  */}
+      {/*MORE  */}
       <div className="w-full flex justify-center items-center flex-col gap-9 ">
-        <div className="jost text-white flex pl-15 text-[25px]">THRILLER</div>
-
-        <div className="flex flex-row   gap-14 pl-5">
-          <div>
-            <Image
-              src={
-                "https://m.media-amazon.com/images/I/91lslnZ-btL._AC_UF1000,1000_QL80_.jpg"
-              }
-              height={100}
-              width={200}
-              alt="ikigai"
-              className="rounded-md hover:scale-105 transition-transform"
-            />
-            <div className="flex justify-center jost text-pretty font-light text-white items-center">
-              ATOMIC HABITS
-            </div>
-          </div>
-
-          <div>
-            <Image
-              src={
-                "https://www.uphe.com/sites/default/files/styles/scale__344w_/public/GirlOnTheTrain_PosterArt.jpg?itok=GVsArxVO://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1588286863i/634583.jpg"
-              }
-              height={100}
-              width={200}
-              alt="ikigai"
-              className="rounded-md hover:scale-105 scale-100 transition-transform"
-            />
-            <div className="flex justify-center jost text-pretty font-light text-white items-center">
-              ATOMIC HABITS
-            </div>
-          </div>
-          <div>
-            <Image
-              src={
-                "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1545494980i/40916679.jpg"
-              }
-              height={90}
-              width={200}
-              alt="ikigai"
-              className="rounded-md hover:scale-105 transition-transform"
-            />
-            <div className="flex justify-center jost text-pretty font-light text-white items-center">
-              ATOMIC HABITS
-            </div>
-          </div>
-          <div>
-            <Image
-              src={
-                "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1587396413l/52439531.jpg"
-              }
-              height={90}
-              width={200}
-              alt="ikigai"
-              className="rounded-md scale-95 hover:scale-100 transition-transform"
-            />
-            <div className="flex justify-center jost text-pretty font-light text-white items-center">
-              ATOMIC HABITS
-            </div>
-          </div>
-        </div>
-      </div>
-      {/* Romance */}
-      <div className="w-full flex justify-center items-center flex-col gap-9 ">
-        <div className="jost text-white flex pl-15 text-[25px]">
-          ROMANCE
-        </div>
+        <div className="jost text-white flex pl-15 text-[25px]">MORE</div>
 
         <div className="flex flex-row   gap-14 pl-5">
           <div>
             <Image
               src={
-                "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1610900883i/54189398.jpg"
+                "https://cdn.shopify.com/s/files/1/2081/8163/files/034-MARTY-MONGOOSE-th.jpg?v=1589893026"
               }
               height={100}
               width={200}
@@ -278,80 +213,14 @@ const page = () => {
               className="rounded-md hover:scale-105 transition-transform"
             />
             <div className="flex justify-center jost text-pretty font-light text-white items-center">
-              ATOMIC HABITS
+              MARTY MONGOOSE
             </div>
           </div>
 
           <div>
             <Image
               src={
-                "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1610730335l/53086843.jpg"
-              }
-              height={100}
-              width={200}
-              alt="ikigai"
-              className="rounded-md hover:scale-105 scale-100 transition-transform"
-            />
-            <div className="flex justify-center jost text-pretty font-light text-white items-center">
-              ATOMIC HABITS
-            </div>
-          </div>
-          <div>
-            <Image
-              src={
-                "https://m.media-amazon.com/images/I/41qnDDa9kdL._AC_UF1000,1000_QL80_.jpg"
-              }
-              height={90}
-              width={200}
-              alt="ikigai"
-              className="rounded-md hover:scale-105 transition-transform"
-            />
-            <div className="flex justify-center jost text-pretty font-light text-white items-center">
-              ATOMIC HABITS
-            </div>
-          </div>
-          <div>
-            <Image
-              src={
-                "https://m.media-amazon.com/images/I/71pLR3Iy50L._AC_UF1000,1000_QL80_.jpg"
-              }
-              height={90}
-              width={200}
-              alt="ikigai"
-              className="rounded-md scale-95 hover:scale-100 transition-transform"
-            />
-            <div className="flex justify-center jost text-pretty font-light text-white items-center">
-              ATOMIC HABITS
-            </div>
-          </div>
-        </div>
-      </div>
-      {/* Fiction */}
-      <div className="w-full flex justify-center items-center flex-col gap-9 ">
-        <div className="jost text-white flex pl-15 text-[25px]">
-          FICTION
-        </div>
-
-        <div className="flex flex-row   gap-14 pl-5">
-          <div>
-            <Image
-              src={
-                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm6t8jbkkg83ZRTMWBcK_JXXnzD28eC8kdH6j22EZ09g&s://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1610900883i/54189398.jpg"
-              }
-              height={100}
-              width={200}
-              alt="ikigai"
-              className="rounded-md hover:scale-105 transition-transform"
-            />
-            <div className="flex justify-center jost text-pretty font-light text-white items-center">
-              ATOMIC HABITS
-            </div>
-          </div>
-
-          <div>
-            <Image
-              src={
-                "https://static.tvtropes.org/pmwiki/pub/images/71hzba0wscl_sl1500.jpg"
+                "https://cdn.shopify.com/s/files/1/2081/8163/files/044-SAMATHA-THE-GIRL-SCIENTIST-th.jpg?v=1589895890"
               }
               height={100}
               width={200}
@@ -359,13 +228,13 @@ const page = () => {
               className="rounded-md hover:scale-105 scale-100 transition-transform"
             />
             <div className="flex justify-center jost text-pretty font-light text-white items-center">
-              ATOMIC HABITS
+            THE GIRL SCIENTIST
             </div>
           </div>
           <div>
             <Image
               src={
-                "https://alittleblogofbooks.com/wp-content/uploads/2012/08/the-kite-runner.jpg"
+                "https://cdn.shopify.com/s/files/1/2081/8163/files/042-STOP-AND-GO-th.jpg?v=1589895622"
               }
               height={90}
               width={200}
@@ -373,13 +242,13 @@ const page = () => {
               className="rounded-md hover:scale-105 transition-transform"
             />
             <div className="flex justify-center jost text-pretty font-light text-white items-center">
-              ATOMIC HABITS
+              STOP & GO
             </div>
           </div>
           <div>
             <Image
               src={
-                "https://i.pinimg.com/564x/f7/c8/12/f7c812c9b0296cd9f119e33a06d9a256.jpg"
+                "https://cdn.shopify.com/s/files/1/2081/8163/files/041-THE-FLOWER-GARDEN-th.jpg?v=1589895147"
               }
               height={90}
               width={200}
@@ -387,13 +256,12 @@ const page = () => {
               className="rounded-md scale-95 hover:scale-100 transition-transform"
             />
             <div className="flex justify-center jost text-pretty font-light text-white items-center">
-              ATOMIC HABITS
+              THE FLOWER GARDEN
             </div>
           </div>
         </div>
       </div>
-
-
+  
 
     </div>
   )
