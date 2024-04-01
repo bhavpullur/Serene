@@ -8,7 +8,7 @@ const page = () => {
       {/* lef*/}
       <Left></Left>
       {/* PARTITION */}
-      <div className="w-[2px] h-[700px] bg-white mx-4 "></div>
+      <div className="w-[2px] h-[700px] bg-white  "></div>
 
       {/*right  */}
       <Right></Right>

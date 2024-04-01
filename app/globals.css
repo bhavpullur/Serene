@@ -26,3 +26,21 @@ body{
   font-weight: 900;
   font-style: italic;
 }
+/* .audio-player {
+  max-width: 400px;
+  margin: 0 auto;
+ 
+}
+/* You can style the audio controls however you like */
+/* audio {
+  width: 100%;
+  margin-top: 10px;
+}
+/*  */
+/* Example: Styling play, pause, and volume controls */
+/* audio::-webkit-media-controls-play-button,
+audio::-webkit-media-controls-pause-button,
+audio::-webkit-media-controls-volume-slider {
+  background-color: #333;
+  border-radius: 4px;
+}  */
